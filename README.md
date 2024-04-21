@@ -13,7 +13,7 @@ The classical approach to solving the TSP is available in `nearest_neibhgour_TSP
 In `qaoa_simulate.ipynb`, simulate_qaoa(distance_matrix) (commented out): This function is meant to be replaced with an actual implementation of the Quantum Approximate Optimization Algorithm (QAOA) to find the optimal permutation. The current code includes a placeholder where QAOA would return a hypothetical optimal route. simulated_annealing(distance_matrix): This function implements the simulated annealing algorithm to find a near-optimal solution for the TSP.
 
 Planning  to extend simulation QAOA approach by using libraries like Qiskit, Cirq, Pennylane etc.
-'quantum_qaoa.ipynb'
+`quantum_qaoa.ipynb`
 
 
 ### Practical Considerations
